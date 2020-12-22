@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "onHologram"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an Publisher."
+  bio              : "Publisher."
   location         : "Korea"
   email            : "glintzero@gmail.com"
   links:
