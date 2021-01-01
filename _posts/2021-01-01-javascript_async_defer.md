@@ -1,5 +1,5 @@
 ---
-title: "Jvascript를 HTML에 링크할때 효율적인 방법 & async와 defer의 차이점"
+title: "Jvascript HTML 링크 & async와 defe"
 categories:
   - Github blog
 tags:
