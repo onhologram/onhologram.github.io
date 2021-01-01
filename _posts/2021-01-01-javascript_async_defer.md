@@ -1,5 +1,5 @@
 ---
-title: "Jvascript HTML 링크 & async와 defe"
+title: "Jvascript HTML 링크 & async와 defer"
 categories:
   - Github blog
 tags:
